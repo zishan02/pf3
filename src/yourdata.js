@@ -22,7 +22,7 @@ export default {
     //Line 1 For Header
     "Building digital",
     //Line 2 For Header
-    "products, brands,",
+    "products",
     //Line 3 For Header
     "and experience",
   ],
