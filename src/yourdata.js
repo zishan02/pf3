@@ -31,7 +31,7 @@ export default {
     "5 Years of experience in Web Development and Product Development and handson on technologies such as React, Java , C++ , Webservices and Web Technology",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "zishanmohammed02@gmail.com",
 
   // End Header Details -----------------------
 
