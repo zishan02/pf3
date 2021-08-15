@@ -8,6 +8,7 @@ import codeIcon from "./images/code.svg"
 import java from "./images/java-icon.svg"
 import spring from "./images/springio-icon.svg"
 import hibernate from "./images/hibernate-icon.svg"
+import linkedin from "./images/iconmonstr-linkedin-3.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -50,17 +51,8 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "http://trackcovid-19.co.in/",
     },
-    {
-      title: "Project Two", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://mdzishan.tech/",
-    },
-  
+    
+
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -125,8 +117,8 @@ export default {
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/zishan02" },
     {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
+      img: linkedin,
+      url: "https://www.linkedin.com/",
     },
     {
       img: dribbbleIcon,
