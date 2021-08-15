@@ -129,9 +129,9 @@ export default {
 
   skills: [
     {
-      img: htmlIcon,
+      img: java-icon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Over 5 Years hands on experience on core java and java related frameworks.",
     },
     {
       img: cssIcon,
@@ -141,7 +141,7 @@ export default {
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "",
     },
     {
       img: reactIcon,
