@@ -7,6 +7,7 @@ import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
 import java from "./images/java-icon.svg"
 import spring from "./images/springio-icon.svg"
+import hibernate from "./images/hibernate-icon.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -138,27 +139,12 @@ export default {
     {
       img: spring,
       para:
-        "Over 5 Years hands on experience in spring , spring boot and spring related technologies",
+        "Over 5 Years hands on experience on spring , spring boot and spring related technologies",
     },
     {
-      img: jsIcon,
+      img: hibernate,
       para:
-        "",
-    },
-    {
-      img: reactIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Over 5 Years hands on experience on Hibernate ORM",
     },
   ],
 
