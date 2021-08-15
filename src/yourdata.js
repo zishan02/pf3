@@ -130,10 +130,6 @@ export default {
       url: "https://www.linkedin.com/",
     },
     {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
-    {
       img: instagramIcon,
       url: "https://www.instagram.com/",
     },
