@@ -5,6 +5,8 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import java from "./images/java-icon.svg"
+import spring from "./images/springio-icon.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -129,14 +131,14 @@ export default {
 
   skills: [
     {
-      img: java-icon,
+      img: java,
       para:
         "Over 5 Years hands on experience on core java and java related frameworks.",
     },
     {
-      img: cssIcon,
+      img: spring,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Over 5 Years hands on experience in spring , spring boot and spring related technologies",
     },
     {
       img: jsIcon,
