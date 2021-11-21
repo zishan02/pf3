@@ -126,7 +126,7 @@ export default {
     { img: githubIcon, url: "https://github.com/zishan02" },
     {
       img: linkedin,
-      url: "https://www.linkedin.com/",
+      url: "https://www.linkedin.com/in/mohammed-zishan-8a061a3b",
     },
     {
       img: instagramIcon,
