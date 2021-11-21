@@ -116,7 +116,7 @@ export default {
 
   promotionHeading: "Heading",
   promotionPara:
-"I have a total of 6 Years of experience in IT Industry and well aversed with Industry Standary. I am open for Digital Projects and help you out with my Technical expertise at very reasonable price. We provide a good journey to help you out with your products and services." , // End Promotion Section -----------------
+"I have a total of 6 Years of experience in IT Industry and well aversed with Industry Standards. I am open for Digital Projects and help you out with my Technical expertise at very reasonable price. We provide a good journey to help you out with your products and services." , // End Promotion Section -----------------
 
   //   Contact Section --------------
 
